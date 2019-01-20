@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\15b67dd2be0e188a0422e7628d122c25\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\raw_keep.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\15b67dd2be0e188a0422e7628d122c25\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\tanmay\\Temp\\gradleOut\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    }
+]
